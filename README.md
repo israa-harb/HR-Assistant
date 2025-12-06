@@ -29,7 +29,9 @@ OpenAI API
 
 python-dotenv
 
-🔑 Add Your Keys
+🔑 Create an .env File
 
-This project includes an .env file.
-Please open it and add your own API keys before running the app
+You need to create a .env file in the project folder and add your API keys before running the app:
+
+OPENAI_API_KEY=your_openai_key_here
+LANGCHAIN_API_KEY=your_langchain_key_here
