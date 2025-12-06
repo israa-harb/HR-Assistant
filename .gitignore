@@ -1,0 +1,15 @@
+# Ignore environment files
+.env
+
+# Ignore virtual environment named "test"
+test/
+
+# Ignore common secret/config files
+*.key
+*.pem
+*.crt
+*.env
+secrets.json
+
+".env" 
+"test/" 
